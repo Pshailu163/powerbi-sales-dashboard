@@ -2,9 +2,8 @@
 
 ## 🚀 Project Overview
 
-This project is an interactive Power BI dashboard to analyze sales, profit, and customer trends.
+Built an interactive dashboard using Power BI to analyze sales performance and trends.
 
----
 
 ## 📌 Features
 
