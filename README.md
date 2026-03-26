@@ -22,6 +22,22 @@ Built an interactive dashboard using Power BI to analyze sales performance and t
 
 ![Dashboard](dashboard.png)
 
+📈 Comparison of Sales and Profit
+
+![Comparison](Comparision of sales and profit.png)
+
+🔍 Top & Bottom 5 Analysis
+
+![TopBottom](Top-Bottom 5 Analysis.png)
+
+📋 Table View
+
+![Table](Table Visual.png)
+
+🎛️ Edit Interaction
+
+![Interaction](Edit Interaction.png)
+
 ---
 
 ## 🛠 Tools Used
